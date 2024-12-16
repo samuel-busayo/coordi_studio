@@ -1,0 +1,78 @@
+
+.brand-name {
+    color: #fbfbfb;
+    font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.offcanvas-title {
+    color: #fbfbfb;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.brand-logo-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.slogan {
+    color: #fbfbfb;
+    text-align: center;
+    font-family: Arial;
+    font-weight: normal;
+    font-style: italic;
+    font-size: small;
+    margin: 0;
+}
+
+.brand-logo {
+    height: auto;
+    width: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.logo-image {
+    margin-left: 0;
+    margin-right: 10px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.brand-name-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo-span-oo {
+    color: #ffc000;
+}
+
+.main-cover {
+    padding: 50px;
+}
+
+#body {
+    background-color: #fbfbfb;
+}
+
+#picture-holder {
+    box-shadow: ;
+}
+
+.logo-white {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
