@@ -38,8 +38,8 @@
 .brand-logo {
     height: auto;
     width: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .logo-image {
@@ -52,6 +52,8 @@
 .brand-name-container {
     margin-top: 10px;
     margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .logo-span-oo {
@@ -75,4 +77,8 @@
     height: auto;
     margin-bottom: 20px;
     margin-top: 0;
+}
+
+h1 {
+    font-size: 1.5rem;
 }
